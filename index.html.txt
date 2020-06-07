@@ -1,8 +1,0 @@
-<html> 
-<head>  
- <title>Home</title> 
-</head>
- <body>   
-  Hi, my name is ​jaspreet mann ​ .    
-</body> 
-</html>
